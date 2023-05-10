@@ -1,0 +1,52 @@
+body{
+    margin : auto;
+    max-width : 600px;
+    height: auto;
+    background-image: url(poster.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px 1000px;
+ }
+ 
+#Full{
+     text-align: center;
+     align-items: center;
+     border: 1px solid black;
+     color: white;
+ }
+
+#designation{
+     margin-top : 1px;
+     margin-bottom :8px;
+     color: thistle;
+ }
+
+#Contact li{
+     display: inline;
+     overflow: hidden;
+     margin-right: 11px;  
+ }
+
+h2{
+     text-align: center;
+     margin-top: 2px;
+     margin-bottom : 0px;
+     color: white;
+     background-color: black;
+     }
+ 
+
+.skills li {
+    display: inline-block;
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    padding: 5px 10px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    align-items: center;
+    color: purple;
+}
+
+hr{
+    width:100%;text-align:center;
+}
